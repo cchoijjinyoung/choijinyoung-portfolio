@@ -22,4 +22,4 @@ MariaDB, JSP, Tiles, Ajax, JQUery, Bootstrap, HTML, CSS, JavaScript
 ![mysql-model](https://user-images.githubusercontent.com/50407047/105466251-4cbb4f00-5cd7-11eb-9075-35ad804753f5.png)
 
 #### 메인화면(일반 유저페이지 / 관리자 페이지)
-<img src="https://user-images.githubusercontent.com/68311264/108675602-5fb97d00-752a-11eb-97e8-701ce82f07ba.PNG" height="263">
+<img src="https://user-images.githubusercontent.com/68311264/108675602-5fb97d00-752a-11eb-97e8-701ce82f07ba.PNG" height="600">
