@@ -22,4 +22,14 @@ MariaDB, JSP, Tiles, Ajax, JQUery, Bootstrap, HTML, CSS, JavaScript
 ![mysql-model](https://user-images.githubusercontent.com/50407047/105466251-4cbb4f00-5cd7-11eb-9075-35ad804753f5.png)
 
 #### 메인화면(일반 유저페이지 / 관리자 페이지)
+Devil에 맞는 컨셉과 개발자의 눈을 고려한 다크모드로 진행하고자 했다.
 ![real](https://user-images.githubusercontent.com/68311264/108676475-9d6ad580-752b-11eb-8dec-7657827d0a92.PNG)
+
+#### 핵심 기능
+- 회원가입 / 로그인 - 예외 발생 시 문구 출력.
+- 게시글 / 댓글 CRUD 및 대댓글 기능.
+- 뱃지 시스템: 유저 활동(게시글 작성 등)에 기반한 뱃지 획득.
+- 태그 시스템: 게시글마다 태그 적용 ex) #java, #Ruby
+- 게시글 검색 기능.(java로 검색 시 제목뿐만아니라 java태그 게시글도 분류)
+- 사용자 개인 피드.(획득한 뱃지, 팔로우한 유저, 게시글 확인 가능)
+- 
