@@ -2,16 +2,15 @@
 
 ## :blush: 소개
 
-10개월 전 개발을 처음 접하고 국비교육과정을 통해 개발자의 꿈을 키웠습니다.
-뒤늦게 찾은 적성인만큼 열정을 갖고 공부하고 있습니다.
+10개월 전 우연히 개발을 접했습니다. 동영상을 통해 홀로 공부를 시작했고, 개발의 꿈을 키우기위해 천안에서 서울을 오가며 국비교육학원을 다녔습니다.
+뒤늦게 찾은 적성인만큼 더 열정을 갖고 즐겁게 개발을 배워가고 있습니다.
 
 최근 공부내용 : 
 https://github.com/cchoijjinyoung/home-study
 
 ## :rocket: 프로젝트
 ### :smiling_imp: Developer Village(DEVIL)
-#### 개발자 커뮤니티(국비교육 파이널 팀프로젝트)</br>
-https://github.com/cchoijjinyoung/developer-village
+#### 개발자 커뮤니티(국비교육 파이널 팀프로젝트)
 #### 1. 참여 인원: 5명
 #### 2. 개발 기간: 20.10.27 ~ 20.12.31
 #### 3. 기술 스택:
@@ -34,3 +33,6 @@ Devil에 맞는 컨셉과 개발자의 눈을 고려한 다크모드로 진행�
 - 게시글 검색 기능.(java로 검색 시 제목뿐만아니라 java태그 게시글도 분류)
 - 사용자 개인 피드.(획득한 뱃지, 팔로우한 유저, 게시글 확인 가능)
 - 개인 알림 기능 (댓글, 대댓글, 팔로우, 뱃지 획득)
+
+#### https://github.com/cchoijjinyoung/developer-village
+https://github.com/cchoijjinyoung/developer-village
