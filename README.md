@@ -9,6 +9,7 @@
 https://github.com/cchoijjinyoung/home-study
 
 ## Tech skill
+![skill](https://user-images.githubusercontent.com/68311264/108695699-f21a4a80-7543-11eb-8f08-61ed80ca1250.PNG)
 ### C
 처음 개발을 접했을 때 기초 문법을 공부했고 구구단, 베스킨라빈스31 게임 등을 구현하였습니다.
 
