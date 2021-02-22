@@ -22,7 +22,7 @@ MariaDB, JSP, Tiles, Ajax, JQUery, Bootstrap, HTML, CSS, JavaScript
 ![mysql-model](https://user-images.githubusercontent.com/50407047/105466251-4cbb4f00-5cd7-11eb-9075-35ad804753f5.png)
 
 #### 5. 메인화면(일반 유저페이지 / 관리자 페이지)
-Devil에 맞는 컨셉과 개발자의 눈을 고려한 다크모드로 진행하고자 했다.
+Devil에 맞는 컨셉과 개발자의 눈을 고려한 다크모드로 진행하고자 했습니다.
 ![real](https://user-images.githubusercontent.com/68311264/108676475-9d6ad580-752b-11eb-8dec-7657827d0a92.PNG)
 
 #### 6. 핵심 기능
