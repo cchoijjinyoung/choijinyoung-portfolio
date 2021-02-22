@@ -8,8 +8,8 @@
 최근 공부내용 : JavaScript</br>
 https://github.com/cchoijjinyoung/home-study
 
-## :smiling_imp: 프로젝트
-### Developer Village(DEVIL)
+## :rocket: 프로젝트
+### :smiling_imp: Developer Village(DEVIL)
 개발자 커뮤니티(국비교육 파이널 프로젝트)
 개발 기간: 20-10-22 ~ 20-12-31
 
