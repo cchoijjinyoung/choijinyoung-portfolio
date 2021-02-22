@@ -8,6 +8,23 @@
 최근 공부내용 : 
 https://github.com/cchoijjinyoung/home-study
 
+## Tech skill
+### C
+처음 개발을 접했을 때 기초 문법을 공부했고 구구단, 베스킨라빈스31 게임 등을 구현하였습니다.
+
+### Java, Servlet JSP
+국비교육과정을 통해 프로그래밍 기초문법에 대해 공부했고 MVC패턴을 이해하고 있습니다. </br>
+한참 미흡하지만 책과 동영상 강의를 통한 학습으로 꾸준히 공부하고 있습니다.
+
+### Spring Framework
+파이널 프로젝트를 통해 많이 공부할 수 있었습니다. 페이징처리를 하며 많이 고생했지만, 수강이 끝난 후 토비의 스프링을 통해 부족함을 채우려고 노력하고 있습니다.
+
+### Javascript
+javascript의 기본 문법을 익혔고, 현재도 꾸준히 공부중에 있습니다.
+
+### github
+작은 프로젝트부터 파이널 프로젝트까지 github를 통해 소스 코드를 관리하였고 협엽 역시 github로 진행하였습니다. 
+
 ## :rocket: 프로젝트
 ### :smiling_imp: Developer Village(DEVIL)
 #### 개발자 커뮤니티(국비교육 파이널 팀프로젝트)
