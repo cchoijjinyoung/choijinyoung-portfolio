@@ -16,7 +16,7 @@ https://github.com/cchoijjinyoung/developer-village
 #### 2. 개발 기간: 20.10.27 ~ 20.12.31
 #### 3. 기술 스택:
 Java11, Spring, Gradle, Mybatis, Tomcat,
-MariaDB, JSP, Tiles, Ajax, JQUery, Bootstrap, HTML, CSS, JavaScript
+MariaDB, JSP, Tiles, Ajax, JQuery, Bootstrap, HTML, CSS, JavaScript
 
 #### 4. ERD 설계
 ![mysql-model](https://user-images.githubusercontent.com/50407047/105466251-4cbb4f00-5cd7-11eb-9075-35ad804753f5.png)
