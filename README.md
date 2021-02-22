@@ -15,7 +15,7 @@ https://github.com/cchoijjinyoung/developer-village
 #### 1. 참여 인원: 5명
 #### 2. 개발 기간: 20.10.27 ~ 20.12.31
 #### 3. 기술 스택:
-Java11, Spring, Gradle, Mybatis, Tomcat, Eclipse
+Java11, Spring, Gradle, Mybatis, Tomcat,
 MariaDB, JSP, Tiles, Ajax, JQUery, Bootstrap, HTML, CSS, JavaScript
 
 #### 4. ERD 설계
