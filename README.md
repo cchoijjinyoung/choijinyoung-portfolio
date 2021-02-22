@@ -10,10 +10,10 @@ https://github.com/cchoijjinyoung/home-study
 
 ## :rocket: 프로젝트
 ### :smiling_imp: Developer Village(DEVIL)
--개발자 커뮤니티(국비교육 파이널 프로젝트)
--개발 기간: 20-10-22 ~ 20-12-31
+#### 개발자 커뮤니티(국비교육 파이널 프로젝트)
+#### 개발 기간: 20-10-22 ~ 20-12-31
 
--기술 스택:
+#### 기술 스택:
 Java11, Spring, Gradle, Mybatis, Tomcat, Eclipse
 MariaDB, JSP, Tiles, Ajax, JQUery, Bootstrap
 
