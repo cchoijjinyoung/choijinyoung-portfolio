@@ -72,7 +72,7 @@ Devil에 맞는 컨셉과 개발자의 눈을 고려한 다크모드로 진행�
 
 ## 부족하지만 끝까지 읽어주셔서 감사합니다.
 ## Contact
-깃허브: https://github.com/cchoijjinyoung
+깃허브: https://github.com/cchoijjinyoung </br>
 이메일: cgy7127@gmail.com
 
 
