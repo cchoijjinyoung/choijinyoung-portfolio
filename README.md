@@ -33,5 +33,6 @@ Devil에 맞는 컨셉과 개발자의 눈을 고려한 다크모드로 진행�
 - 게시글 검색 기능.(java로 검색 시 제목뿐만아니라 java태그 게시글도 분류)
 - 사용자 개인 피드.(획득한 뱃지, 팔로우한 유저, 게시글 확인 가능)
 - 개인 알림 기능 (댓글, 대댓글, 팔로우, 뱃지 획득)
-#### 상세보기: https://github.com/cchoijjinyoung/developer-village
+#### 깃허브: https://github.com/cchoijjinyoung/developer-village
+#### 상세내용: [Developer village.pptx](https://github.com/cchoijjinyoung/choijinyoung-portfolio/files/6021072/Developer.village.pptx)
 
