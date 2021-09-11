@@ -10,8 +10,6 @@ https://github.com/cchoijjinyoung/home-study
 
 ## Tech skill
 ![skill](https://user-images.githubusercontent.com/68311264/108695699-f21a4a80-7543-11eb-8f08-61ed80ca1250.PNG)
-### C
-처음 개발을 접했을 때 공부했던 언어입니다. 기초 문법을 공부했습니다.
 
 ### Java, Servlet JSP
 국비교육과정을 통해 프로그래밍 기초문법에 대해 공부했고 MVC패턴을 이해하고 있습니다. </br>
